@@ -1,6 +1,6 @@
 # Rhian Felipe
 
-Repositório da matéria de "Programação Avançada".=
+Repositório da matéria de "Programação Avançada"
 
 Ciência da Computação
 
